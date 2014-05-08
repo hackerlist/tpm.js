@@ -1,13 +1,13 @@
-window.projs = (function () {
-    function Projs (els) {
+window.tpm = (function () {
+    function tpm (els) {
          
     }
      
-    var projs = {
+    var tpm = {
         get: function (selector) {
          
         }   
     };
      
-    return dome;
+    return tpm;
 }());
