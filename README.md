@@ -1,4 +1,4 @@
-proj.js
-=======
+tpm.js
+=====
 
-A project management
+Towards better Time & Project Management
