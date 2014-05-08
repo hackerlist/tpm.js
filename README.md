@@ -32,9 +32,13 @@ tasks, issues
 ## Components Heirarchy
 
 Missions - A campaign towards a goal or objective key result
+
 Phases - A continuous commitment which occurs during an alotted period of time
+
 Milestones - A collection of work representing quantifiable progress / discrete OKRs towards the completion of a phase
+
 Tasks - Comprehensive encodings of discrete units of work
+
 Issues - A Qualifier/Modifier which documents problems within, and specifies necessary (unplanned) adjustments to, Tasks
 
 ### Missions
